@@ -1,0 +1,44 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.container{
+    border:21px solid black;
+    height: 99%;
+    width:97%;
+}
+
+body{
+    background-color: darkgreen;
+    height:95vh;
+}
+.log{
+
+    display:flex;
+    justify-content: space-around;
+}
+.cell {
+    color:red;
+    background-color: whitesmoke;
+    background-size:cover;
+    height: 400px;
+    width: 300px;
+    border:5px solid black;
+}
+.button{
+
+    display:flex;
+    justify-content:space-around;
+    text-align: center;
+    width:100%;
+}
+.appButton {
+    margin:50px;
+    border: 5px solid black;
+
+    text-align:center;
+    height:50px;
+    width:180px;
+}
+
